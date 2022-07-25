@@ -1,5 +1,4 @@
 # STAR-OASIS-Omniverse-Unity-UI
-The 
 
 Welcome to the codebase for Unity UI to the STAR OASIS Omniverse/Metaverse/MagicVerse/CyberSpace which is the digital twin and simulation of life and the Omniverse. More documentation will be coming soon...
 
