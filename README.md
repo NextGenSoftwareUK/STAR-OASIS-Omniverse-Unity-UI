@@ -1,6 +1,6 @@
 # STAR-OASIS-Omniverse-Unity-UI
 
-Welcome to the codebase for Unity UI to the STAR OASIS Omniverse/Metaverse/MagicVerse/CyberSpace which is the digital twin and simulation of life and the Omniverse. More documentation will be coming soon...
+Welcome to the codebase for the Unity UI to the STAR OASIS Omniverse/Metaverse/MagicVerse/CyberSpace which is the digital twin and simulation of life and the Omniverse. More documentation will be coming soon...
 
 For more info on this project check out the main repo here:<br>
 https://github.com/NextGenSoftwareUK/Our-World-OASIS-API-HoloNET-HoloUnity-And-.NET-HDK
