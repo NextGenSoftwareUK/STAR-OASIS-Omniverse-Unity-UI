@@ -9,7 +9,7 @@ Also check out the main website:<br>
 http://www.ourworldthegame.com
 
 This is built on top of the WEB4 OASIS API, which can be found here:<br>
-http://oasisplatform.world/swagger
+http://api.oasisplatform.world
 
 It is also built on the WEB5 STAR ODK, check out more here: https://github.com/NextGenSoftwareUK/Our-World-OASIS-API-HoloNET-HoloUnity-And-.NET-HDK#web5-star-odk
 
